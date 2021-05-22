@@ -7,3 +7,4 @@ Solutions for questions related to Dynamic Programming, coded in C++. <br/>
 * [Climb Stairs With Variable Jumps](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb-stairs-with-variable-jumps-official/ojquestion) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/6.%20Climb%20Stairs%20With%20Variable%20Jumps%20(Pepcoding).cpp)
 * [Jump Over Buildings](https://github.com/unnati109c/Dynamic-Programming/blob/main/Jump%20Over%20Buildings) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/7.%20Jump%20Over%20Buildings%20(Codechef).cpp)
 * [Removing Digits](https://cses.fi/problemset/task/1637/) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/8.%20Removing%20Digits%20(cses).cpp)
+* [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) - [SOLUTION]()
