@@ -8,3 +8,4 @@ Solutions for questions related to Dynamic Programming, coded in C++. <br/>
 * [Jump Over Buildings](https://github.com/unnati109c/Dynamic-Programming/blob/main/Jump%20Over%20Buildings) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/7.%20Jump%20Over%20Buildings%20(Codechef).cpp)
 * [Removing Digits](https://cses.fi/problemset/task/1637/) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/8.%20Removing%20Digits%20(cses).cpp)
 * [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/9.%20Frog%201%20(AtCoder).cpp)
+* [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/10.%20Longest%20Common%20Subsequence%20(leetcode).cpp)
