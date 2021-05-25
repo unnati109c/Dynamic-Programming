@@ -9,4 +9,4 @@ Solutions for questions related to Dynamic Programming, coded in C++. <br/>
 * [Removing Digits](https://cses.fi/problemset/task/1637/) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/8.%20Removing%20Digits%20(cses).cpp)
 * [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/9.%20Frog%201%20(AtCoder).cpp)
 * [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/10.%20Longest%20Common%20Subsequence%20(leetcode).cpp)
-* [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) - [SOLUTION]()
+* [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) - [SOLUTION](https://github.com/unnati109c/Dynamic-Programming/blob/main/11.%200%20-%201%20Knapsack%20Problem%20(gfg).cpp)
